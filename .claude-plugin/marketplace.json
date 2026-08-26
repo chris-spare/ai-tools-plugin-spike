@@ -15,6 +15,10 @@
     {
       "name": "gamma",
       "source": "./dist/plugins/gamma"
+    },
+    {
+      "name": "mcpx",
+      "source": "./dist/plugins/mcpx"
     }
   ]
 }

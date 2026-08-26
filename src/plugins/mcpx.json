@@ -1,0 +1,2 @@
+{ "name": "mcpx", "version": "1.0.0", "description": "Spike plugin with a bundled MCP server, commands, and a skill named like a command",
+  "skills": ["twin"], "commands": ["spike-cmd", "twin"], "mcp": ["spike-mcp"] }

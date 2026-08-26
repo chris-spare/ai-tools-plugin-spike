@@ -18,6 +18,11 @@
       "name": "gamma",
       "source": "./dist/plugins/gamma",
       "description": "gamma"
+    },
+    {
+      "name": "mcpx",
+      "source": "./dist/plugins/mcpx",
+      "description": "mcpx"
     }
   ]
 }
