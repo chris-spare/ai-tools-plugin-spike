@@ -1,0 +1,16 @@
+{
+  "name": "spike-ai-tools",
+  "description": "Spike meta-plugin",
+  "requiredPlugins": [
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/chris-spare/ai-tools-plugin-spike.git",
+      "path": "dist/plugins/alpha"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/chris-spare/ai-tools-plugin-spike.git",
+      "path": "dist/plugins/beta"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "spike-mkt-dist",
+  "owner": {
+    "name": "Spike"
+  },
+  "plugins": [
+    {
+      "name": "alpha",
+      "source": "./plugins/alpha"
+    }
+  ]
+}

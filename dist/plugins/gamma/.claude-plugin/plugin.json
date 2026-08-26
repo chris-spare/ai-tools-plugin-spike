@@ -1,0 +1,8 @@
+{
+  "name": "gamma",
+  "version": "1.0.0",
+  "description": "Spike plugin gamma (external skill path, no copy)",
+  "skills": [
+    "../../../src/skills/spike-hello"
+  ]
+}
