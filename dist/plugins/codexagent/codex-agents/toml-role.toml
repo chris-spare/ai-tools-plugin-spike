@@ -1,0 +1,6 @@
+name = "toml-role"
+description = "A codex-format TOML role for the spike."
+nickname_candidates = ["Toml Role"]
+developer_instructions = '''
+You are the toml-role. When asked, reply CODEX_TOML_ROLE_OK.
+'''
