@@ -1,0 +1,1 @@
+{ "mcpServers": { "spike-mcp": { "command": "node", "args": ["${CLAUDE_PLUGIN_ROOT}/mcp/spike-mcp/server.js"] } } }

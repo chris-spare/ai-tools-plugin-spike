@@ -1,0 +1,28 @@
+{
+  "name": "spike-mkt",
+  "owner": {
+    "name": "Spike"
+  },
+  "plugins": [
+    {
+      "name": "alpha",
+      "source": "./dist/plugins/alpha"
+    },
+    {
+      "name": "beta",
+      "source": "./dist/plugins/beta"
+    },
+    {
+      "name": "gamma",
+      "source": "./dist/plugins/gamma"
+    },
+    {
+      "name": "mcpx",
+      "source": "./dist/plugins/mcpx"
+    },
+    {
+      "name": "rootonly",
+      "source": "./dist/plugins/rootonly"
+    }
+  ]
+}
