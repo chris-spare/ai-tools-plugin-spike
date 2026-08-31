@@ -23,6 +23,11 @@
       "name": "mcpx",
       "source": "./dist/plugins/mcpx",
       "description": "mcpx"
+    },
+    {
+      "name": "rootonly",
+      "source": "./dist/plugins/rootonly",
+      "description": "rootonly"
     }
   ]
 }

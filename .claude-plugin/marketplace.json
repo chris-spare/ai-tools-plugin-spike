@@ -19,6 +19,10 @@
     {
       "name": "mcpx",
       "source": "./dist/plugins/mcpx"
+    },
+    {
+      "name": "rootonly",
+      "source": "./dist/plugins/rootonly"
     }
   ]
 }

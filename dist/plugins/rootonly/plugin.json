@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rootonly",
+  "version": "1.0.0",
+  "description": "Spike plugin with ONLY a root plugin.json (Agent Plugins) + .claude-plugin"
+}
